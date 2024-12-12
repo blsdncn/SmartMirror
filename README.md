@@ -65,6 +65,3 @@ The source code is structured as follows:
      - Long press toggles between editing mode and saving the changes.
    - **Power Off**: Long press when prompted to turn off the system.
 
----
-
-For more details, refer to the documentation or visual guides in the repository.
