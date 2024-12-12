@@ -1,4 +1,4 @@
-#Smart Mirror Prototype
+# Smart Mirror Prototype
 
 This project is a functional Smart Mirror that combines a real-time clock (RTC), LCD display, and a simple user interface controlled via a single button. The prototype manages time display, LED brightness adjustment, and menu navigation using a state machine.
 
