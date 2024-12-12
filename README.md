@@ -4,6 +4,8 @@ This project is a functional Smart Mirror that combines a real-time clock (RTC),
 
 ---
 
+### [Link to demo](https://youtu.be/SZAy3_tnhQE?si=a_sdpUQwHDt8H1BS)
+
 ### Source Code Structure
 
 The source code is structured as follows:
