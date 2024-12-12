@@ -11,7 +11,7 @@ This project is a functional Smart Mirror that combines a real-time clock (RTC),
 The source code is structured as follows:
 
 - **Core Libraries**:
-    - `Wire.h` and `RTClib.h` – For RTC DS1307 module communication.
+    - `RTClib.h` – For RTC DS1307 module communication.
     - `LiquidCrystal.h` – For interfacing with the 16x2 LCD display.
 
 - **Main Components**:
